@@ -116,7 +116,7 @@
 // console.log(myBike1.displayInfo());  // "Make: Trek, Model: FX 7.4, Year: 2015"
 // console.log(myBike1.calculateAge(2023));  // "This bike is 1 year(s) old."
 
-//Bonus mixins or conposition
+//Bonus mixins or composition
 
 class VehicleClass {
     constructor(make, model, year, type) {
